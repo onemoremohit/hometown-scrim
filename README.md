@@ -39,11 +39,11 @@ If you would like to explore the code locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/onemoremohit/hometown-scrim
    ```
 2. Navigate into the folder:
    ```bash
-   cd YOUR_REPO
+   cd hometown-scrim
    ```
 3. Open `index.html` in your browser (or use the VS Code "Live Server" extension).
 
