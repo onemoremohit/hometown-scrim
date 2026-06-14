@@ -1,19 +1,52 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Scrimba Frontend Practice Project- Visit Hometown
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A frontend development project built as part of my Full-Stack Developer learning path on the [Scrimba](https://scrimba.com) platform. This project focuses on turning design concepts into functional, responsive web applications while mastering core frontend principles.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Live Deployment
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+You can view the live application here:
+🔗 **[Live Demo on Netlify](YOUR_NETLIFY_URL_HERE)**
 
-Happy Coding!
+---
+
+## 💡 Learning Objectives
+
+While building this project, I focused on mastering the following concepts:
+* **Semantic HTML:** Writing clean, accessible, and SEO-friendly markup.
+* **CSS Layouts:** Utilizing Flexbox and Grid to build responsive layouts that work on any screen size.
+* **Component Structure:** Organizing project files, including UI images and assets, for maintainable code.
+* **Deployment Workflows:** Connecting my GitHub repository to Netlify for continuous deployment.
+
+## 📁 Repository Structure
+
+* **`README.md`** — Overview of the project, learning goals, and deployment links.
+* **`.gitignore`** — Keeps the repository clean by excluding local development system files.
+* **`images/`** — UI assets, icons, and graphic components used in the layout.
+* **Source Files** — The core code structure where I practiced my HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Built With
+
+* **HTML5** — Semantic page structure
+* **CSS3** — Custom styling and responsive design
+* **Scrimba** — Interactive learning platform and codebase foundation
+* **Netlify** — Hosting and continuous deployment
+
+## ⚙️ How to Run Locally
+
+If you would like to explore the code locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com
+   ```
+2. Navigate into the folder:
+   ```bash
+   cd YOUR_REPO
+   ```
+3. Open `index.html` in your browser (or use the VS Code "Live Server" extension).
+
+---
+
+📊 *Follow my full-stack learning journey on GitHub!*
