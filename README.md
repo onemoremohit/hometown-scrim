@@ -1,11 +1,11 @@
 # Scrimba Frontend Practice Project- Visit Hometown
 
-A frontend development project built as part of my Full-Stack Developer learning path on the [Scrimba](https://scrimba.com) platform. This project focuses on turning design concepts into functional, responsive web applications while mastering core frontend principles.
+A frontend development project built as part of my Full-Stack Developer learning path on the [Scrimba](https://scrimba.com/?via=u439fa72) platform. This project focuses on turning design concepts into functional, responsive web applications while mastering core frontend principles.
 
 ## 🚀 Live Deployment
 
 You can view the live application here:
-🔗 **[Live Demo on Netlify](YOUR_NETLIFY_URL_HERE)**
+🔗 **[Live Demo on Netlify](https://visit-hometownn.netlify.app/)**
 
 ---
 
